@@ -4,20 +4,11 @@
 ## Государственные
 
 ### Россия 🇷🇺
-  #### &ensp; Госрасходы
-
-  - [API](https://spending.gov.ru/pages/devs_api/)
-  - [Выгрузка](https://spending.gov.ru/devs/opendata/)
-
-  #### &ensp; Госзатраты
-
-  - [Выгрузка](https://bulk.clearspending.ru)
-
-  #### &ensp; Голосования в Госдуме
-  &ensp;&ensp; Нет API или выгрузки, необходимо распарсить.
-  - [Сайт](http://vote.duma.gov.ru/)
+* **Госрасходы**: [API](https://spending.gov.ru/pages/devs_api/), [Выгрузка](https://spending.gov.ru/devs/opendata/)  
+* **Голосования в Госдуме**: необходимо распарсить [Сайт](http://vote.duma.gov.ru/)
 
 ### Европейский союз 🇪🇺
-#### &ensp; База решений ЕСПЧ
-&ensp;&ensp; Необходимо распарсить
-- [Сайт](https://hudoc.echr.coe.int/eng#{%22respondent%22:[%22RUS%22],%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22]})
+* **База решений ЕСПЧ**: необходимо распарсить [Сайт](https://hudoc.echr.coe.int/eng#{%22respondent%22:[%22RUS%22],%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22]})
+
+## НКО
+* **Госзатраты**: [Выгрузка](https://bulk.clearspending.ru)
