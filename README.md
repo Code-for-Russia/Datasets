@@ -16,9 +16,13 @@
 ### Европейский союз 🇪🇺
 * **База решений ЕСПЧ**: необходимо распарсить [Сайт](https://hudoc.echr.coe.int/eng#{%22respondent%22:[%22RUS%22],%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22]})
 
+### США
+* **CIA Factbook** профили страны с основными фактами [Сайт](https://www.cia.gov/the-world-factbook/countries/russia), [Неофициальный дамп](https://github.com/factbook/factbook.json)
+
 ## НКО
 * **Госзатраты**: [Выгрузка](https://bulk.clearspending.ru)
 * **Открытые НКО**: база всех НКО с источниками финансирования (Минюст, ФНС) [API](https://openngo.ru/opendata/)
+* **OpenSky Network**: данные авиаперелетов в 2020 году [Данные](https://zenodo.org/record/4419082), [Данные с номерами самолетов](https://zenodo.org/record/3928550)
 
 ## Утечки
 * **Offshore Leaks**: утечки из Panama Papers (2016, "Панамское досье"), Offshore Leaks, Bahamas Leaks, Paradise Papers [Данные](https://offshoreleaks.icij.org/pages/database)
@@ -29,3 +33,7 @@
 
 * **Common Crawl**: крупнейший доступный веб-индекс [Сайт](https://commoncrawl.org/)
 * **Web Data Commons**: Семантические данные из Common Crawl [Сайт](http://webdatacommons.org/)
+* **Wayback Machine**: архив Веба [API](https://archive.org/help/wayback_api.php)
+
+## Поиск датасетов
+* **Mendeley Data**: [Сайт](https://data.mendeley.com)
