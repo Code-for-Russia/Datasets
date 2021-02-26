@@ -24,3 +24,8 @@
 * **Offshore Leaks**: утечки из Panama Papers (2016, "Панамское досье"), Offshore Leaks, Bahamas Leaks, Paradise Papers [Данные](https://offshoreleaks.icij.org/pages/database)
 * **FinCEN**: утечка данных о 200 тыс. подозрительных по мнению бюро FinCEN Министерства финансов США транзакциях на $2 трлн. с 1999 по 2017гг., проведенные через корреспондентские счета в американских банках [Данные](https://www.icij.org/investigations/fincen-files/download-fincen-files-transaction-data/)
 * **WikiLeaks**: [Сайт](https://wikileaks.org/)
+
+## Веб
+
+* **Common Crawl**: крупнейший доступный веб-индекс [Сайт](https://commoncrawl.org/)
+* **Web Data Commons**: Семантические данные из Common Crawl [Сайт](http://webdatacommons.org/)
