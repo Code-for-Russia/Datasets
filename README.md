@@ -22,5 +22,6 @@
 
 ## Утечки
 * **Panama Papers**: финансовые данные о 500 тыс. оффшорных компаний, фондов и трастов из утечки "Панамское досье" (2016) [БД](https://offshoreleaks.icij.org/pages/database)
+* **Offshore Leaks**: утечки из Panama Papers, Offshore Leaks, Bahamas Leaks, Paradise Papers [Данные](https://offshoreleaks.icij.org/pages/database)
 * **FinCEN**: утечка данных о 200 тыс. подозрительных по мнению бюро FinCEN Министерства финансов США транзакциях на $2 трлн. с 1999 по 2017гг., проведенные через корреспондентские счета в американских банках [Данные](https://www.icij.org/investigations/fincen-files/download-fincen-files-transaction-data/)
 * **WikiLeaks**: [Сайт](https://wikileaks.org/)
