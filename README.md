@@ -25,7 +25,6 @@
 * **Госзатраты**: [Выгрузка](https://bulk.clearspending.ru)
 * **Открытые НКО**: база всех НКО с источниками финансирования (Минюст, ФНС) [API](https://openngo.ru/opendata/)
 * **Данные НКО**: датасеты от НКО [Сайт](http://ngodata.ru), например, [Архив аккаунтов органов власти в Twitter](http://ngodata.ru/dataset/govtwitters) или [Подсети Интернета РФ](http://ngodata.ru/dataset/rusasn)
-* **OpenSky Network**: данные авиаперелетов в 2020 году [Данные](https://zenodo.org/record/4419082), [Данные с номерами самолетов](https://zenodo.org/record/3928550)
 
 ## Утечки
 * **Offshore Leaks**: утечки из Panama Papers (2016, "Панамское досье"), Offshore Leaks, Bahamas Leaks, Paradise Papers [Данные](https://offshoreleaks.icij.org/pages/database)
