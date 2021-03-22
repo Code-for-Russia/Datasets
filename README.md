@@ -51,8 +51,11 @@
 ## Веб
 
 * **Common Crawl**: крупнейший доступный веб-индекс [Сайт](https://commoncrawl.org/)
-* **Web Data Commons**: Семантические данные из Common Crawl [Сайт](http://webdatacommons.org/)
 * **Wayback Machine**: архив Веба [API](https://archive.org/help/wayback_api.php)
+
+## Семантический Веб
+* **Web Data Commons**: Семантические данные из Common Crawl [Сайт](http://webdatacommons.org/)
+* **Wikidata**: структурированные данные из Википедии [Сайт](https://www.wikidata.org/)
 
 ## Поиск датасетов
 * **Google Dataset Search**: [Сайт](https://datasetsearch.research.google.com/)
